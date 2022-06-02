@@ -1,7 +1,7 @@
 # Computational-Finance-project
 
-These projects are based on the online course of Computational Finance by Lech A. Grzelak
-Link of the course : https://www.youtube.com/c/ComputationsinFinance/videos
+These projects are based on the online course of Computational Finance by Lech A. Grzelak  
+Link of the course : https://www.youtube.com/c/ComputationsinFinance/videos  
 Programmation language : Python on Jupyter Notebook
 
 ### 3 - Option Pricing - GBM ABM simulation
